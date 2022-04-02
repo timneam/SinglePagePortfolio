@@ -29,5 +29,6 @@
     font-weight: bold;
 }
 
-.nav-items a:active {
+.nav-items .active {
+    background-color: white;
 }

@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <header className="nav-bar">
         <nav className="nav-items">
-        <a href="#about" className="active">
+        <a href="#about">
             Timothy Neam
           </a>
           <a href="#projects">
