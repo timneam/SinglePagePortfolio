@@ -1,0 +1,30 @@
+.nav-bar {
+    height: 100px;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.nav-items {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.nav-items a {
+    padding: 30px;
+    color: white;
+    text-decoration: none;
+}
+
+.nav-items a:hover {
+    border-bottom: 10px;
+    border-spacing: 10px;
+    border-color: white;
+}
+
+.nav-item a:active {
+    border-bottom-color: white;
+}
