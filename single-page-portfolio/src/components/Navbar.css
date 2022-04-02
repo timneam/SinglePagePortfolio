@@ -1,9 +1,9 @@
 :target {
-    padding-top: 80px;
+    padding-top: 60px;
 }
 
 .nav-bar {
-    height: 100px;
+    height: 80px;
     background-color: black;
     position: fixed;
     top: 0;
@@ -21,14 +21,13 @@
     padding: 30px;
     color: white;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
 .nav-items a:hover {
-    border-bottom: 10px;
-    border-spacing: 10px;
-    border-color: white;
+    border-bottom: 6px solid white;
+    font-weight: bold;
 }
 
-.nav-item a:active {
-    border-bottom-color: white;
+.nav-items a:active {
 }
