@@ -18,14 +18,14 @@
 }
 
 .nav-items a {
-    padding: 30px;
+    padding: 25px;
     color: white;
     text-decoration: none;
     text-transform: uppercase;
 }
 
 .nav-items a:hover {
-    border-bottom: 6px solid white;
+    border-bottom: 4px solid white;
     font-weight: bold;
 }
 
