@@ -1,3 +1,28 @@
 .about-container {
     height: 1000px;
 }
+
+.intro-container {
+    text-align: left;
+    padding-left: 10px;
+    font-size: 30px;
+    font-family: monospace;
+}
+
+.intro-container2 {
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+    font-family: monospace;
+}
+
+.intro-container3 {
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+    font-family: monospace;
+}
+
+.intro-list {
+    font-size: 20px;
+}
