@@ -1,5 +1,8 @@
 import React from "react";
 import "./Skills.css";
+import { coding_skills } from "../data";
+import { database_skills } from "../data";
+import { software } from "../data";
 
 export default function Skills() {
     return (
@@ -10,3 +13,4 @@ export default function Skills() {
         </div>
     )
 }
+
